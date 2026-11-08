@@ -803,3 +803,40 @@ My collection of publicly available AI models.
 5. Build a simple neural network.
 6. Explore pretrained AI models.
 7. Understand how PyTorch can support JARVIS.
+
+---
+
+## 9. TensorFlow
+
+- **Type:** Machine Learning and Deep Learning Framework
+- **Source:** https://github.com/tensorflow/tensorflow
+- **Website:** https://www.tensorflow.org/
+- **Documentation:** https://www.tensorflow.org/api_docs
+- **Licence:** Apache-2.0
+- **Purpose:** Develop, train and deploy machine learning models.
+- **Integration:** Python, C++ and JavaScript
+- **JARVIS Use:** Machine learning, neural networks, image recognition and intelligent predictions.
+- **Status:** Learning
+
+### Key Features
+
+- Machine learning
+- Deep learning
+- Neural networks
+- Computer vision
+- Natural language processing
+- Model training
+- Model deployment
+- TensorFlow Lite for mobile devices
+
+### Learning Tasks
+
+1. Understand what TensorFlow is.
+2. Learn tensors and operations.
+3. Understand neural networks.
+4. Learn model training.
+5. Build a basic machine learning model.
+6. Explore TensorFlow Lite.
+7. Understand mobile AI integration.
+8. Explore how TensorFlow can support JARVIS.
+
