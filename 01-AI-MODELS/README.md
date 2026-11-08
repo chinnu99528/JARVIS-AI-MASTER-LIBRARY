@@ -92,3 +92,14 @@ My collection of publicly available AI models.
 - Model weights: Available separately.
 - Hardware: Requires substantial computing resources.
 - Status: Catalogued
+---
+
+## 8. Google Gemma
+
+- Type: Open-Weight Language Models
+- Developer: Google DeepMind
+- Source: https://github.com/google-deepmind/gemma
+- Licence: Varies by model version
+- Purpose: Language understanding, reasoning and coding.
+- Model weights: Available separately, subject to terms.
+- Status: Catalogued
