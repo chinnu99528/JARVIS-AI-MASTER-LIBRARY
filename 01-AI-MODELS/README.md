@@ -1285,3 +1285,40 @@ My collection of publicly available AI models.
 8. Connect Sentence Transformers with Weaviate.
 9. Compare Weaviate with Qdrant and ChromaDB.
 10. Build a small JARVIS knowledge-search prototype.
+
+---
+
+## 22. Pinecone
+
+- **Type:** Managed Vector Database
+- **Developer:** Pinecone
+- **GitHub:** https://github.com/pinecone-io
+- **Documentation:** https://docs.pinecone.io/
+- **Language:** Python and other supported clients
+- **Purpose:** Store, index and search vector embeddings.
+- **Integration:** Pinecone SDK and API
+- **JARVIS Use:** Semantic search, knowledge retrieval and AI memory.
+- **Status:** Learning
+
+### Key Features
+
+- Vector similarity search
+- Managed vector storage
+- Metadata filtering
+- Hybrid search capabilities
+- Serverless architecture
+- Scalable retrieval
+- AI application integration
+
+### Learning Tasks
+
+1. Understand managed vector databases.
+2. Learn Pinecone architecture.
+3. Understand indexes.
+4. Learn namespaces.
+5. Explore vector insertion.
+6. Learn similarity search.
+7. Understand metadata filtering.
+8. Learn Python SDK integration.
+9. Connect Sentence Transformers with Pinecone.
+10. Build a small JARVIS knowledge-search prototype.
