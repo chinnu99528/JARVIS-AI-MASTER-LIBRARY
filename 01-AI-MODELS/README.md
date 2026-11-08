@@ -703,3 +703,71 @@ My collection of publicly available AI models.
 - Available hardware acceleration depends on the device and execution provider.
 - Model compatibility should be checked before deployment.
 - Always test model accuracy and performance.
+---
+
+## 7. Scikit-learn
+
+- **Type:** Python Machine Learning Library
+- **Official Website:** https://scikit-learn.org/
+- **GitHub:** https://github.com/scikit-learn/scikit-learn
+- **Documentation:** https://scikit-learn.org/stable/user_guide.html
+- **Licence:** BSD-3-Clause
+- **Primary Language:** Python
+- **Purpose:** Build machine learning models for classification, regression, clustering and data analysis.
+- **Core Dependencies:** NumPy, SciPy and joblib.
+- **JARVIS Use:** Prediction systems, data analysis, classification and intelligent decision support.
+- **Integration:** Python
+- **Status:** Collected
+
+### Key Features
+
+- Classification
+- Regression
+- Clustering
+- Data Preprocessing
+- Feature Extraction
+- Model Selection
+- Model Evaluation
+- Dimensionality Reduction
+- Pipeline Processing
+- Cross Validation
+
+### JARVIS Applications
+
+1. Build basic prediction systems.
+2. Classify and analyze collected data.
+3. Develop intelligent recommendation components.
+4. Experiment with anomaly detection.
+5. Analyze patterns in datasets.
+6. Build simple decision-support models.
+7. Integrate trained machine learning models into JARVIS.
+
+### Learning Tasks
+
+1. Understand machine learning fundamentals.
+2. Learn NumPy and Pandas basics.
+3. Understand datasets and data preprocessing.
+4. Learn classification algorithms.
+5. Learn regression algorithms.
+6. Understand clustering.
+7. Learn model training and testing.
+8. Understand accuracy and evaluation metrics.
+9. Explore model pipelines.
+10. Build a basic prediction project.
+11. Explore integration with JARVIS.
+
+### Official Learning Resources
+
+- Getting Started: https://scikit-learn.org/stable/getting_started.html
+- User Guide: https://scikit-learn.org/stable/user_guide.html
+- Tutorials: https://scikit-learn.org/stable/auto_examples/index.html
+- API Reference: https://scikit-learn.org/stable/modules/classes.html
+- GitHub Repository: https://github.com/scikit-learn/scikit-learn
+
+### Important Notes
+
+- Scikit-learn is primarily designed for traditional machine learning.
+- It is not a general-purpose large language model framework.
+- It works well with NumPy and SciPy.
+- Model performance depends on data quality and appropriate algorithm selection.
+- Trained models should be evaluated before integration into JARVIS.
