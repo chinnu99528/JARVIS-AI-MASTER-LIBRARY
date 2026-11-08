@@ -1211,3 +1211,40 @@ My collection of publicly available AI models.
 8. Learn Python integration.
 9. Connect Sentence Transformers with Qdrant.
 10. Build a small JARVIS knowledge-search prototype.
+
+---
+
+## 20. Milvus
+
+- **Type:** Vector Database
+- **Developer:** Zilliz and the Milvus community
+- **GitHub:** https://github.com/milvus-io/milvus
+- **Documentation:** https://milvus.io/docs
+- **Language:** Go and Python ecosystem
+- **Purpose:** Store, index and search large-scale vector data.
+- **Integration:** Python SDK and other supported clients
+- **JARVIS Use:** Knowledge retrieval, semantic search and AI memory.
+- **Status:** Learning
+
+### Key Features
+
+- Vector similarity search
+- Large-scale vector storage
+- Multiple indexing methods
+- Metadata filtering
+- Hybrid search
+- Distributed architecture
+- Scalable retrieval
+
+### Learning Tasks
+
+1. Understand vector databases.
+2. Learn Milvus architecture.
+3. Understand collections.
+4. Learn vector indexing.
+5. Explore similarity search.
+6. Understand metadata filtering.
+7. Learn Python integration.
+8. Connect Sentence Transformers with Milvus.
+9. Compare Milvus with ChromaDB and Qdrant.
+10. Build a small knowledge-search prototype.
