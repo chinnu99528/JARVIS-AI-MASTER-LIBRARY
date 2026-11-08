@@ -913,3 +913,41 @@ My collection of publicly available AI models.
 7. Understand Android compatibility.
 8. Study how local AI could integrate with JARVIS.
 
+
+---
+
+## 12. Ollama
+
+- **Type:** Local AI Model Runner
+- **Source:** https://github.com/ollama/ollama
+- **Website:** https://ollama.com/
+- **Documentation:** https://docs.ollama.com/
+- **Licence:** MIT (Ollama application)
+- **Purpose:** Download, manage and run supported large language models locally.
+- **Integration:** REST API and command-line interface
+- **Platform Support:** Windows, Linux and macOS
+- **JARVIS Use:** Local conversational AI, model management and private AI inference.
+- **Status:** Learning
+
+### Key Features
+
+- Local AI model execution
+- Model downloading and management
+- REST API
+- Command-line interface
+- Multiple model support
+- Streaming responses
+- Model configuration
+- Local application integration
+
+### Learning Tasks
+
+1. Understand what Ollama is.
+2. Learn how local AI models work.
+3. Understand model requirements.
+4. Explore Ollama documentation.
+5. Learn about its REST API.
+6. Understand how applications connect to Ollama.
+7. Explore supported language models.
+8. Study how Ollama could integrate with JARVIS.
+
