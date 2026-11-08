@@ -876,3 +876,40 @@ My collection of publicly available AI models.
 6. Run a compatible pretrained model.
 7. Understand how ONNX can support JARVIS.
 
+
+---
+
+## 11. llama.cpp
+
+- **Type:** Local Large Language Model Inference Engine
+- **Source:** https://github.com/ggml-org/llama.cpp
+- **Licence:** MIT
+- **Purpose:** Run compatible large language models locally on different hardware.
+- **Model Format:** GGUF
+- **Integration:** C and C++ with additional language bindings.
+- **Platform Support:** Windows, Linux, macOS and Android builds.
+- **JARVIS Use:** Local AI conversations, offline inference and private AI processing.
+- **Status:** Learning
+
+### Key Features
+
+- Local AI inference
+- GGUF model support
+- Model quantization
+- CPU inference
+- GPU acceleration on supported hardware
+- Multiple model configurations
+- Local server mode
+- Cross-platform support
+
+### Learning Tasks
+
+1. Understand what llama.cpp is.
+2. Learn about GGUF model files.
+3. Understand model quantization.
+4. Explore local AI inference.
+5. Learn how CPU and GPU inference differ.
+6. Explore llama.cpp documentation.
+7. Understand Android compatibility.
+8. Study how local AI could integrate with JARVIS.
+
