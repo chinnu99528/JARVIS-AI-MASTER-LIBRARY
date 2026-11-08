@@ -1137,4 +1137,40 @@ My collection of publicly available AI models.
 7. Learn Python integration.
 8. Connect embeddings with FAISS.
 9. Build a small semantic search project.
-10. 
+
+---
+
+## 18. ChromaDB
+
+- **Type:** Vector Database
+- **Developer:** Chroma
+- **GitHub:** https://github.com/chroma-core/chroma
+- **Documentation:** https://docs.trychroma.com/
+- **Language:** Python and other supported clients
+- **Purpose:** Store, manage and search vector embeddings.
+- **Integration:** Python
+- **JARVIS Use:** Knowledge storage, semantic memory and information retrieval.
+- **Status:** Learning
+
+### Key Features
+
+- Vector storage
+- Embedding management
+- Similarity search
+- Metadata filtering
+- Document collections
+- Persistent storage
+- Retrieval-Augmented Generation support
+
+### Learning Tasks
+
+1. Understand vector databases.
+2. Learn collections.
+3. Understand embeddings.
+4. Learn document storage.
+5. Explore similarity search.
+6. Learn metadata filtering.
+7. Understand persistent storage.
+8. Connect Sentence Transformers with ChromaDB.
+9. Explore integration with FAISS.
+10. Build a small JARVIS knowledge-search prototype.
