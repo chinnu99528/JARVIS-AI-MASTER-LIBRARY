@@ -1174,3 +1174,40 @@ My collection of publicly available AI models.
 8. Connect Sentence Transformers with ChromaDB.
 9. Explore integration with FAISS.
 10. Build a small JARVIS knowledge-search prototype.
+
+---
+
+## 19. Qdrant
+
+- **Type:** Vector Database
+- **Developer:** Qdrant
+- **GitHub:** https://github.com/qdrant/qdrant
+- **Documentation:** https://qdrant.tech/documentation/
+- **Language:** Rust (core), Python and other clients
+- **Purpose:** Store, index and search vector embeddings.
+- **Integration:** Python API and other supported clients
+- **JARVIS Use:** Semantic memory, knowledge retrieval and document search.
+- **Status:** Learning
+
+### Key Features
+
+- Vector similarity search
+- Fast vector indexing
+- Metadata filtering
+- Hybrid search
+- Persistent storage
+- Scalable retrieval
+- Multiple vector configurations
+
+### Learning Tasks
+
+1. Understand vector databases.
+2. Learn Qdrant architecture.
+3. Understand collections.
+4. Learn points and payloads.
+5. Explore vector indexing.
+6. Learn similarity search.
+7. Understand metadata filtering.
+8. Learn Python integration.
+9. Connect Sentence Transformers with Qdrant.
+10. Build a small JARVIS knowledge-search prototype.
