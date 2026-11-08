@@ -1102,3 +1102,39 @@ My collection of publicly available AI models.
 8. Explore how to combine FAISS with Sentence Transformers.
 9. Build a small knowledge-search prototype.
 
+
+---
+
+## 17. Sentence Transformers
+
+- **Type:** Embedding Framework
+- **Developer:** Hugging Face
+- **GitHub:** https://github.com/huggingface/sentence-transformers
+- **Documentation:** https://www.sbert.net/
+- **Language:** Python
+- **Purpose:** Generate embeddings from text and supported multimodal inputs.
+- **Integration:** Python
+- **JARVIS Use:** Semantic search, knowledge retrieval and memory search.
+- **Status:** Learning
+
+### Key Features
+
+- Text embeddings
+- Semantic similarity
+- Semantic search
+- Text clustering
+- Multimodal embeddings
+- Pretrained embedding models
+
+### Learning Tasks
+
+1. Understand embeddings.
+2. Learn semantic similarity.
+3. Understand text encoding.
+4. Learn Sentence Transformers.
+5. Explore pretrained models.
+6. Understand cosine similarity.
+7. Learn Python integration.
+8. Connect embeddings with FAISS.
+9. Build a small semantic search project.
+10. 
