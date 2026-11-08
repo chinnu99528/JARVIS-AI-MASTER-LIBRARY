@@ -633,3 +633,73 @@ My collection of publicly available AI models.
 - Not every model or framework operation is supported.
 - Model conversion may require compatibility adjustments.
 - Always validate model accuracy after conversion.
+---
+
+## 6. ONNX Runtime
+
+- **Type:** Machine Learning Inference and Runtime Engine
+- **Official Website:** https://onnxruntime.ai/
+- **GitHub:** https://github.com/microsoft/onnxruntime
+- **Documentation:** https://onnxruntime.ai/docs/
+- **Licence:** MIT
+- **Primary Languages:** C++, Python, C# and Java
+- **Purpose:** Execute and optimize compatible ONNX machine learning models.
+- **Supported Platforms:** Windows, Linux, macOS, Android and other supported platforms.
+- **Hardware Support:** CPU and compatible GPU execution providers.
+- **JARVIS Use:** Run AI models for computer vision, speech processing and other intelligent tasks.
+- **Integration:** Python, C++, Java and other supported APIs.
+- **Status:** Collected
+
+### Key Features
+
+- Cross-Platform Model Execution
+- CPU Inference
+- GPU Acceleration
+- Model Optimization
+- Hardware Acceleration
+- Multiple Execution Providers
+- Python API
+- C++ API
+- Mobile Deployment Support
+- Model Profiling
+
+### JARVIS Applications
+
+1. Run compatible ONNX models.
+2. Experiment with image recognition.
+3. Run compatible speech-processing models.
+4. Explore efficient AI model inference.
+5. Test CPU and GPU execution.
+6. Experiment with model optimization.
+7. Explore Android AI deployment.
+8. Integrate compatible models into JARVIS.
+
+### Learning Tasks
+
+1. Understand ONNX Runtime fundamentals.
+2. Learn how inference engines work.
+3. Install ONNX Runtime in Python.
+4. Load a compatible ONNX model.
+5. Run model inference.
+6. Understand input and output tensors.
+7. Explore execution providers.
+8. Learn model optimization.
+9. Compare inference performance.
+10. Explore Android integration.
+11. Study ONNX Runtime integration with JARVIS.
+
+### Official Learning Resources
+
+- Documentation: https://onnxruntime.ai/docs/
+- Python API: https://onnxruntime.ai/docs/api/python/
+- Execution Providers: https://onnxruntime.ai/docs/execution-providers/
+- Performance Tuning: https://onnxruntime.ai/docs/performance/
+- GitHub Repository: https://github.com/microsoft/onnxruntime
+
+### Important Notes
+
+- ONNX Runtime is an inference engine, not an AI model.
+- It executes compatible ONNX models.
+- Available hardware acceleration depends on the device and execution provider.
+- Model compatibility should be checked before deployment.
+- Always test model accuracy and performance.
