@@ -292,3 +292,91 @@ My collection of publicly available AI models.
 
 - Status: Collected
 - 
+
+---
+
+## 6. Alibaba Qwen
+
+- Developer: Qwen Team, Alibaba Group
+- Type: Open-Weight Language and Multimodal AI Model Family
+- Official Website: https://qwen.ai/
+- Official Documentation: https://qwen.readthedocs.io/
+- GitHub Repository: https://github.com/QwenLM
+- Model Collection: https://huggingface.co/Qwen
+- Licence: Depends on the individual model; check its model card and licence.
+- Purpose: Conversational AI, reasoning, mathematics, coding, translation, question answering and multimodal understanding.
+
+### Important Model Families
+
+1. Qwen3
+   - Dense model sizes: 0.6B, 1.7B, 4B, 8B, 14B and 32B.
+   - Mixture-of-Experts models: 30B-A3B and 235B-A22B.
+   - Capabilities: Reasoning, coding, mathematics and multilingual conversation.
+   - Supports thinking and non-thinking modes.
+
+2. Qwen3.5
+   - Includes natively multimodal models.
+   - Supports text, image and video understanding.
+   - Example release: Qwen3.5-397B-A17B.
+   - Capabilities: Reasoning, coding, agent workflows and multimodal understanding.
+
+3. Qwen-VL
+   - Type: Vision-Language Models.
+   - Capabilities: Image understanding, visual question answering and document analysis.
+
+4. Qwen-Audio
+   - Type: Audio-Language Models.
+   - Capabilities: Audio understanding and speech-related tasks.
+
+5. Qwen-Coder
+   - Type: Coding-focused Models.
+   - Capabilities: Code generation, explanation, debugging and programming assistance.
+
+### Input and Output
+
+- Input: Text, images, audio and video (depending on model).
+- Output: Primarily text.
+- Additional capabilities: Tool calling and structured responses on supported models.
+- Languages: Multilingual support; language coverage depends on model generation.
+
+### Model Weights and Deployment
+
+- Publicly available weights for selected models.
+- Deployment: Local computers, laptops, workstations and cloud environments.
+- Quantization: Supported for selected model versions.
+- Inference tools: Compatible Transformers and other supported runtimes.
+- Hardware requirements: Depend on model size, quantization and runtime.
+
+### JARVIS Integration Possibilities
+
+- Main conversational AI engine
+- Natural language understanding
+- Question answering
+- Coding assistance
+- Mathematical reasoning
+- Image and document understanding
+- Audio understanding
+- Multilingual conversation
+- AI agent development
+- Tool calling and automation integration
+
+### Hardware Considerations
+
+- Smaller Qwen models are candidates for local AI experiments.
+- Quantization can reduce memory requirements.
+- Larger models require substantially more computing resources.
+- Multimodal models may need additional processing resources.
+- Cloud inference is an alternative for larger models.
+- Test actual compatibility and performance before selecting a model.
+
+### Important Notes
+
+- Qwen is a family of models, not a single AI model.
+- Not every Qwen model supports images, audio or video.
+- Model capabilities differ by generation and variant.
+- Open-weight availability does not mean unrestricted use.
+- Always review the individual model card and licence.
+- Check the official documentation for updated model specifications.
+
+- Status: Collected
+- 
