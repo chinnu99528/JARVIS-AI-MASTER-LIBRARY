@@ -208,3 +208,87 @@ My collection of publicly available AI models.
 - Llama 4 supports multimodal input.
 - Review the applicable licence before deployment.
 - 
+
+---
+
+## 5. Mistral AI
+
+- Developer: Mistral AI
+- Type: Open-Weight and Commercial AI Model Family
+- Official Website: https://mistral.ai/
+- Official Documentation: https://docs.mistral.ai/
+- Model Catalogue: https://docs.mistral.ai/models/
+- GitHub Organization: https://github.com/mistralai
+- Licence: Depends on the individual model.
+- Purpose: Conversational AI, reasoning, coding, mathematics, question answering, summarization and multimodal tasks.
+
+### Important Model Families
+
+1. Ministral 3
+   - Sizes: 3B, 8B and 14B.
+   - Capabilities: Text and vision.
+   - Licence: Apache 2.0.
+
+2. Mistral Small 4
+   - Type: Hybrid AI model.
+   - Capabilities: Instruction following, reasoning and coding.
+   - Licence: Apache 2.0.
+
+3. Mistral Large 3
+   - Architecture: Sparse Mixture of Experts (MoE).
+   - Active Parameters: 41B.
+   - Total Parameters: 675B.
+   - Capabilities: Text, image understanding and general-purpose tasks.
+   - Context Window: 256K tokens.
+   - Licence: Apache 2.0.
+
+4. Mistral Large 4
+   - Type: Open-weight multimodal model.
+   - Capabilities: General-purpose AI tasks.
+   - Licence: Mistral Ecosystem Open Weight License.
+
+### Input and Output
+
+- Input: Text and images for supported multimodal models.
+- Output: Text and code.
+- Additional capabilities: Tool calling and structured outputs on supported models.
+
+### Model Weights and Deployment
+
+- Public model weights are available for selected models.
+- Some models are available through commercial APIs.
+- Deployment: Local computers, laptops, workstations and cloud environments.
+- Quantization: Supported for selected model formats.
+- Hardware requirements: Depend on model size, quantization and inference software.
+
+### JARVIS Integration Possibilities
+
+- Main conversational AI engine
+- Natural language understanding
+- Question answering
+- Coding assistance
+- Reasoning and problem solving
+- Image understanding
+- Tool calling
+- AI agent workflows
+- Local AI experiments
+
+### Hardware Considerations
+
+- Ministral 3 3B is a useful candidate for smaller local AI experiments.
+- Ministral 3 8B and 14B require more memory.
+- Quantization can reduce memory requirements.
+- Large models generally require powerful hardware.
+- Cloud inference is an alternative for larger models.
+- Test compatibility and performance before choosing a model for JARVIS.
+
+### Important Notes
+
+- Mistral AI provides both open-weight and commercial models.
+- Not every Mistral model has the same licence.
+- Always check the individual model card and licence.
+- Model capabilities vary by generation and version.
+- Do not assume that every model can run on a smartphone.
+
+- Status: Collected
+- 
