@@ -1028,3 +1028,41 @@ My collection of publicly available AI models.
 9. Study model licences and requirements.
 10. Explore how ModelScope models could support JARVIS.
 
+
+---
+
+## 15. Sentence Transformers (SBERT)
+
+- **Type:** AI Embedding Library
+- **Website:** https://www.sbert.net/
+- **GitHub:** https://github.com/huggingface/sentence-transformers
+- **Documentation:** https://www.sbert.net/docs/
+- **Language:** Python
+- **Purpose:** Convert text into numerical vector representations called embeddings.
+- **Integration:** Python library
+- **Main Features:** Semantic search, text similarity, clustering and information retrieval.
+- **JARVIS Use:** Help JARVIS search its knowledge base by meaning and retrieve relevant information.
+- **Status:** Learning
+
+### Key Features
+
+- Text embeddings
+- Semantic similarity
+- Semantic search
+- Information retrieval
+- Text clustering
+- Multilingual models
+- Image and multimodal embeddings (supported models)
+
+### Learning Tasks
+
+1. Understand embeddings.
+2. Learn what vector representations mean.
+3. Understand semantic similarity.
+4. Learn Sentence Transformers basics.
+5. Explore pretrained embedding models.
+6. Understand semantic search.
+7. Learn Python integration.
+8. Explore information retrieval.
+9. Study how to connect embeddings to a JARVIS knowledge base.
+
