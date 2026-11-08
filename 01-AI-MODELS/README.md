@@ -1248,3 +1248,40 @@ My collection of publicly available AI models.
 8. Connect Sentence Transformers with Milvus.
 9. Compare Milvus with ChromaDB and Qdrant.
 10. Build a small knowledge-search prototype.
+
+---
+
+## 21. Weaviate
+
+- **Type:** Vector Database
+- **Developer:** Weaviate
+- **GitHub:** https://github.com/weaviate/weaviate
+- **Documentation:** https://docs.weaviate.io/
+- **Language:** Go
+- **Purpose:** Store, manage and search vectorized data.
+- **Integration:** Python and other supported clients
+- **JARVIS Use:** Semantic memory, document search and knowledge retrieval.
+- **Status:** Learning
+
+### Key Features
+
+- Vector similarity search
+- Hybrid search
+- Keyword search
+- Metadata filtering
+- Multiple vectorization options
+- Persistent storage
+- Retrieval-Augmented Generation support
+
+### Learning Tasks
+
+1. Understand Weaviate architecture.
+2. Learn collections.
+3. Understand vector embeddings.
+4. Explore vector search.
+5. Learn hybrid search.
+6. Understand metadata filtering.
+7. Learn Python integration.
+8. Connect Sentence Transformers with Weaviate.
+9. Compare Weaviate with Qdrant and ChromaDB.
+10. Build a small JARVIS knowledge-search prototype.
