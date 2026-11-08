@@ -67,3 +67,14 @@ My collection of publicly available AI models.
 - Purpose: Language understanding, reasoning and coding.
 - Model weights: Available separately, subject to terms.
 - Status: Catalogued
+---
+
+## 6. Mistral AI Models
+
+- Type: Large Language Models
+- Developer: Mistral AI
+- Source: https://github.com/mistralai
+- Licence: Varies by model
+- Purpose: Language understanding, reasoning and coding.
+- Model weights: Available separately for selected models.
+- Status: Catalogued
