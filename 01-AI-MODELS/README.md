@@ -44,3 +44,15 @@ My collection of publicly available AI models.
 - Code: Publicly available
 - Model weights: Available separately for supported models.
 - Status: Collected
+---
+
+## 4. Qwen3
+
+- Type: Large Language Model
+- Developer: Alibaba Cloud
+- Source: https://github.com/QwenLM/Qwen3
+- Model weights: Available separately
+- Licence: Apache-2.0 for Qwen3 weights
+- Purpose: Language understanding, reasoning and coding.
+- Code and weights: Check their respective repositories.
+- Status: Catalogued
