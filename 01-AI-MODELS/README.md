@@ -1066,3 +1066,39 @@ My collection of publicly available AI models.
 8. Explore information retrieval.
 9. Study how to connect embeddings to a JARVIS knowledge base.
 
+
+---
+
+## 16. FAISS (Facebook AI Similarity Search)
+
+- **Type:** Vector Search Library
+- **Developer:** Meta AI Research
+- **GitHub:** https://github.com/facebookresearch/faiss
+- **Website:** https://faiss.ai/
+- **Language:** C++ and Python
+- **Purpose:** Efficient similarity search and clustering of dense vectors.
+- **Integration:** Python and C++
+- **JARVIS Use:** Search stored knowledge and retrieve relevant information using vector similarity.
+- **Status:** Learning
+
+### Key Features
+
+- Vector similarity search
+- Nearest neighbor search
+- Vector indexing
+- Clustering
+- Large-scale vector retrieval
+- GPU support (supported configurations)
+
+### Learning Tasks
+
+1. Understand vector databases.
+2. Learn vector similarity.
+3. Understand nearest neighbor search.
+4. Learn FAISS indexes.
+5. Explore L2 distance.
+6. Understand cosine similarity.
+7. Learn Python integration.
+8. Explore how to combine FAISS with Sentence Transformers.
+9. Build a small knowledge-search prototype.
+10. 
