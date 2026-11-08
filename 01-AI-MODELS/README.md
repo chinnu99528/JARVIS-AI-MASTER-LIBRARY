@@ -152,3 +152,59 @@ My collection of publicly available AI models.
 - Actual performance depends on available hardware.
 - Review the model licence before using or redistributing it.
 - 
+
+---
+
+## 4. Meta Llama
+
+- Developer: Meta AI
+- Type: Open-Weight Large Language Model Family
+- Model Generations: Llama 2, Llama 3, Llama 3.1, Llama 3.2, Llama 3.3 and Llama 4.
+- Official Website: https://www.llama.com/
+- Documentation: https://www.llama.com/docs/
+- GitHub Repository: https://github.com/meta-llama/llama-models
+- Licence: Meta Llama Community Licence and applicable use policies.
+- Purpose: Conversational AI, reasoning, coding, question answering and summarization.
+- Input: Text and images (supported variants only).
+- Output: Text and code.
+- Context Window: Depends on model generation and variant.
+- Model Sizes:
+  - Llama 3.2 Text: 1B and 3B.
+  - Llama 3.2 Vision: 11B and 90B.
+  - Llama 3.3: 70B.
+  - Llama 4 Scout: 17B active parameters, 109B total.
+  - Llama 4 Maverick: 17B active parameters, 400B total.
+- Model Weights: Publicly available subject to applicable licence and access terms.
+- Deployment: Cloud servers, computers, laptops and supported local environments.
+- Quantization: Available for selected models.
+- Status: Collected
+
+### JARVIS Integration Possibilities
+
+- Main conversational AI engine
+- Natural language understanding
+- Question answering
+- Code assistance
+- Text summarization
+- AI agent development
+- Tool calling
+- Image understanding with supported models
+- Local AI assistant experiments
+
+### Hardware Considerations
+
+- Smaller 1B and 3B models are candidates for local experiments.
+- Quantization can reduce memory requirements.
+- Larger models require substantially more computing resources.
+- Actual performance depends on hardware and software.
+- Cloud inference can be used for larger models.
+
+### Important Notes
+
+- Llama is an open-weight model family, not public-domain software.
+- Different generations have different licence terms.
+- Llama 3.2 includes lightweight text and larger vision models.
+- Llama 3.3 70B is text-only.
+- Llama 4 supports multimodal input.
+- Review the applicable licence before deployment.
+- 
