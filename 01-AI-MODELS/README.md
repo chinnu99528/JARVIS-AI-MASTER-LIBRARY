@@ -78,3 +78,17 @@ My collection of publicly available AI models.
 - Purpose: Language understanding, reasoning and coding.
 - Model weights: Available separately for selected models.
 - Status: Catalogued
+---
+
+## 7. DeepSeek-V3
+
+- Type: Large Language Model
+- Developer: DeepSeek AI
+- Source: https://github.com/deepseek-ai/DeepSeek-V3
+- Code Licence: MIT
+- Model Licence: Separate Model Licence
+- Parameters: 671 Billion Total
+- Purpose: Language understanding, reasoning and coding.
+- Model weights: Available separately.
+- Hardware: Requires substantial computing resources.
+- Status: Catalogued
