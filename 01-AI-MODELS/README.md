@@ -840,3 +840,39 @@ My collection of publicly available AI models.
 7. Understand mobile AI integration.
 8. Explore how TensorFlow can support JARVIS.
 
+
+---
+
+## 10. ONNX (Open Neural Network Exchange)
+
+- **Type:** Open Machine Learning Model Format
+- **Source:** https://github.com/onnx/onnx
+- **Website:** https://onnx.ai/
+- **Documentation:** https://onnx.ai/onnx/
+- **Runtime:** https://github.com/microsoft/onnxruntime
+- **Licence:** Apache-2.0
+- **Purpose:** Enable machine learning models to be exchanged between different AI frameworks.
+- **Integration:** Python, C++, Java and other supported languages.
+- **JARVIS Use:** Model interoperability and running compatible AI models across different platforms.
+- **Status:** Learning
+
+### Key Features
+
+- Cross-framework model exchange
+- Model interoperability
+- ONNX Runtime support
+- CPU and GPU execution
+- Model optimization
+- AI deployment support
+- Multiple programming language APIs
+
+### Learning Tasks
+
+1. Understand what ONNX is.
+2. Learn why model interoperability matters.
+3. Understand ONNX model files.
+4. Learn how to export a PyTorch model to ONNX.
+5. Explore ONNX Runtime.
+6. Run a compatible pretrained model.
+7. Understand how ONNX can support JARVIS.
+
