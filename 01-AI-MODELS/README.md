@@ -988,3 +988,43 @@ My collection of publicly available AI models.
 7. Understand model licences and usage restrictions.
 8. Learn how to connect compatible models to JARVIS.
 
+
+---
+
+## 14. ModelScope
+
+- **Type:** AI Model Hub and Machine Learning Framework
+- **Website:** https://www.modelscope.cn/
+- **Source:** https://github.com/modelscope/modelscope
+- **Documentation:** https://modelscope.cn/docs
+- **Licence:** Apache-2.0 (core ModelScope library)
+- **Purpose:** Discover, download, train, evaluate and run AI models.
+- **Integration:** Python APIs and supported model interfaces.
+- **AI Categories:** NLP, Computer Vision, Audio and Multimodal AI.
+- **JARVIS Use:** Discover and experiment with suitable pretrained AI models.
+- **Status:** Learning
+
+### Key Features
+
+- AI model repository
+- Pretrained model discovery
+- Dataset management
+- Model inference
+- Model training
+- Model evaluation
+- Multimodal AI support
+- Model version management
+
+### Learning Tasks
+
+1. Understand what ModelScope is.
+2. Explore its model repository.
+3. Learn how to find pretrained models.
+4. Explore language models.
+5. Explore computer vision models.
+6. Explore speech and audio models.
+7. Learn the ModelScope Python library.
+8. Understand model inference.
+9. Study model licences and requirements.
+10. Explore how ModelScope models could support JARVIS.
+
