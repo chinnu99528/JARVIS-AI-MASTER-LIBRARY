@@ -22,3 +22,14 @@ My collection of publicly available AI models.
 - Code: Publicly available
 - Model weights: Download separately when needed.
 - Status: Collected
+---
+
+## 2. PyTorch
+
+- Type: Deep Learning Framework
+- Source: https://github.com/pytorch/pytorch
+- Licence: BSD-3-Clause
+- Purpose: Build and train neural networks and AI models.
+- Code: Publicly available
+- Model weights: Available separately for supported models.
+- Status: Collected
