@@ -771,3 +771,35 @@ My collection of publicly available AI models.
 - It works well with NumPy and SciPy.
 - Model performance depends on data quality and appropriate algorithm selection.
 - Trained models should be evaluated before integration into JARVIS.
+---
+
+## 8. PyTorch
+
+- **Type:** Deep Learning Framework
+- **Source:** https://github.com/pytorch/pytorch
+- **Website:** https://pytorch.org/
+- **Documentation:** https://pytorch.org/docs/stable/
+- **Licence:** BSD-3-Clause
+- **Purpose:** Build, train and run machine learning and deep learning models.
+- **Integration:** Python
+- **JARVIS Use:** Neural networks, AI model development and computer vision.
+- **Status:** Learning
+
+### Key Features
+
+- Neural networks
+- Deep learning
+- GPU acceleration
+- Model training
+- Computer vision
+- Natural language processing
+
+### Learning Tasks
+
+1. Understand what PyTorch is.
+2. Learn tensor operations.
+3. Understand neural networks.
+4. Learn model training.
+5. Build a simple neural network.
+6. Explore pretrained AI models.
+7. Understand how PyTorch can support JARVIS.
