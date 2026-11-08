@@ -510,3 +510,60 @@ My collection of publicly available AI models.
 - TensorFlow Tutorials: https://www.tensorflow.org/tutorials
 - Keras Documentation: https://keras.io/
 - TensorFlow Guide: https://www.tensorflow.org/guide
+---
+
+## 4. Keras
+
+- **Type:** Deep Learning API
+- **Official Website:** https://keras.io/
+- **GitHub:** https://github.com/keras-team/keras
+- **Documentation:** https://keras.io/api/
+- **Licence:** Apache-2.0
+- **Primary Language:** Python
+- **Purpose:** Build, train and deploy neural networks and deep learning models.
+- **Backend Support:** TensorFlow, JAX and PyTorch (depending on configuration).
+- **JARVIS Use:** Develop custom neural networks, image recognition, speech processing and intelligent AI components.
+- **Integration:** Python
+- **Status:** Collected
+
+### Key Features
+
+- Simple Neural Network Development
+- Deep Learning
+- Model Training
+- Model Evaluation
+- Model Deployment
+- Sequential Models
+- Functional API
+- Pretrained Models
+- Multiple Backend Support
+
+### JARVIS Applications
+
+1. Build custom neural networks.
+2. Develop image classification systems.
+3. Experiment with speech recognition models.
+4. Build intelligent prediction systems.
+5. Create custom machine learning components.
+6. Integrate trained models into JARVIS.
+7. Experiment with multimodal AI applications.
+
+### Learning Tasks
+
+1. Understand Keras fundamentals.
+2. Learn tensors and neural network concepts.
+3. Understand layers and activation functions.
+4. Learn Sequential models.
+5. Understand the Functional API.
+6. Learn model compilation.
+7. Train and evaluate a basic neural network.
+8. Explore pretrained models.
+9. Learn how Keras integrates with TensorFlow.
+10. Explore Keras integration with JARVIS.
+
+### Official Learning Resources
+
+- Keras Guides: https://keras.io/guides/
+- Keras Examples: https://keras.io/examples/
+- Keras API Reference: https://keras.io/api/
+- Keras GitHub: https://github.com/keras-team/keras
