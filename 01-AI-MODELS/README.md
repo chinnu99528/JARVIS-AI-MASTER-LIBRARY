@@ -380,3 +380,79 @@ My collection of publicly available AI models.
 
 - Status: Collected
 - 
+
+---
+
+## 14. DeepSeek AI
+
+- **Type:** Large Language Model (LLM)
+- **Developer:** DeepSeek
+- **Official Website:** https://www.deepseek.com/
+- **API Documentation:** https://api-docs.deepseek.com/
+- **API Base URL:** https://api.deepseek.com
+- **Current API Models:** DeepSeek Flash and DeepSeek V4 Pro
+- **Purpose:** Conversational AI, reasoning, coding and problem-solving.
+- **Integration:** API
+- **Open Weights:** Availability depends on the specific model.
+- **JARVIS Use:** Main AI conversation engine, coding assistant and reasoning system.
+- **Status:** Studying
+
+### Key Features
+
+- Natural language understanding
+- AI reasoning
+- Code generation
+- Problem-solving
+- API integration
+- AI agent support
+
+### Learning Tasks
+
+1. Understand how DeepSeek works.
+2. Learn about Large Language Models.
+3. Understand API integration.
+4. Learn Python API requests.
+5. Explore how to connect an AI model to JARVIS.
+---
+
+## 2. PyTorch
+
+- **Type:** Deep Learning Framework
+- **Official Website:** https://pytorch.org/
+- **GitHub:** https://github.com/pytorch/pytorch
+- **Documentation:** https://pytorch.org/docs/stable/index.html
+- **Licence:** BSD-style
+- **Language:** Python and C++
+- **Purpose:** Build, train and deploy deep learning models.
+- **JARVIS Use:** Neural networks, computer vision, speech recognition and AI model development.
+- **Integration:** Python
+- **Status:** Collected
+
+### Key Features
+
+- Tensor Operations
+- Neural Networks
+- Deep Learning
+- GPU Acceleration
+- Model Training
+- Automatic Differentiation
+- Computer Vision Support
+- AI Research
+
+### JARVIS Applications
+
+1. Develop custom neural networks.
+2. Build image recognition systems.
+3. Experiment with speech recognition models.
+4. Train machine learning models.
+5. Develop intelligent AI components.
+
+### Learning Tasks
+
+1. Understand PyTorch fundamentals.
+2. Learn tensors and tensor operations.
+3. Understand neural networks.
+4. Learn model training.
+5. Explore GPU acceleration.
+6. Build a basic neural network.
+7. Explore integration with JARVIS.
