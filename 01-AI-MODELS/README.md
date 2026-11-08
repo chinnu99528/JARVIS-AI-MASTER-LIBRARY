@@ -56,3 +56,14 @@ My collection of publicly available AI models.
 - Purpose: Language understanding, reasoning and coding.
 - Code and weights: Check their respective repositories.
 - Status: Catalogued
+---
+
+## 5. Meta Llama
+
+- Type: Large Language Model
+- Developer: Meta
+- Source: https://github.com/meta-llama/llama-models
+- Licence: Meta Llama Community Licence
+- Purpose: Language understanding, reasoning and coding.
+- Model weights: Available separately, subject to terms.
+- Status: Catalogued
