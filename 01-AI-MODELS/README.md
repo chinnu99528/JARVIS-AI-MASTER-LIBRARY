@@ -1101,4 +1101,4 @@ My collection of publicly available AI models.
 7. Learn Python integration.
 8. Explore how to combine FAISS with Sentence Transformers.
 9. Build a small knowledge-search prototype.
-10. 
+
