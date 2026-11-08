@@ -115,3 +115,40 @@ My collection of publicly available AI models.
 - Model weights: Available separately.
 - Hardware: Some smaller variants support local inference.
 - Status: Catalogued
+
+---
+
+## 3. Google Gemma 3
+
+- Developer: Google DeepMind
+- Type: Open-Weight Multimodal AI Model
+- Model Sizes: 1B, 4B, 12B, 27B
+- Official Website: https://deepmind.google/models/gemma/gemma-3/
+- Documentation: https://ai.google.dev/gemma/docs
+- Model Source: https://huggingface.co/google
+- Licence: Gemma Terms of Use
+- Purpose: Text generation, reasoning, question answering, summarization and image understanding.
+- Input: Text and images (depending on model size).
+- Output: Text.
+- Context Window: Up to 128K tokens for 4B, 12B and 27B models.
+- Model Weights: Publicly available under Gemma Terms of Use.
+- Deployment: Local computers and supported mobile environments.
+- Status: Collected
+
+### JARVIS Integration Possibilities
+
+- Conversational AI
+- Question answering
+- Image understanding
+- Text summarization
+- Local AI experiments
+- Offline assistant development
+
+### Important Notes
+
+- The 1B model is text-only.
+- The 4B, 12B and 27B models support image understanding.
+- Quantized versions can reduce memory requirements.
+- Actual performance depends on available hardware.
+- Review the model licence before using or redistributing it.
+- 
