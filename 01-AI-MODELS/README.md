@@ -33,3 +33,14 @@ My collection of publicly available AI models.
 - Code: Publicly available
 - Model weights: Available separately for supported models.
 - Status: Collected
+---
+
+## 3. TensorFlow
+
+- Type: Machine Learning Framework
+- Source: https://github.com/tensorflow/tensorflow
+- Licence: Apache-2.0
+- Purpose: Build, train and deploy machine learning models.
+- Code: Publicly available
+- Model weights: Available separately for supported models.
+- Status: Collected
