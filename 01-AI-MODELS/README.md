@@ -103,3 +103,15 @@ My collection of publicly available AI models.
 - Purpose: Language understanding, reasoning and coding.
 - Model weights: Available separately, subject to terms.
 - Status: Catalogued
+---
+
+## 9. Microsoft Phi
+
+- Type: Small Language Models
+- Developer: Microsoft
+- Source: https://github.com/microsoft/Phi-3CookBook
+- Licence: Varies by model version
+- Purpose: Reasoning, language understanding and coding.
+- Model weights: Available separately.
+- Hardware: Some smaller variants support local inference.
+- Status: Catalogued
