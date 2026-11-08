@@ -456,3 +456,57 @@ My collection of publicly available AI models.
 5. Explore GPU acceleration.
 6. Build a basic neural network.
 7. Explore integration with JARVIS.
+---
+
+## 3. TensorFlow
+
+- **Type:** Machine Learning and Deep Learning Framework
+- **Official Website:** https://www.tensorflow.org/
+- **GitHub:** https://github.com/tensorflow/tensorflow
+- **Documentation:** https://www.tensorflow.org/api_docs
+- **Licence:** Apache-2.0
+- **Primary Language:** Python and C++
+- **Purpose:** Develop, train and deploy machine learning and deep learning models.
+- **JARVIS Use:** AI model development, image recognition, speech processing and intelligent automation.
+- **Integration:** Python APIs
+- **Status:** Collected
+
+### Key Features
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Tensor Operations
+- GPU Acceleration
+- Model Training
+- Model Deployment
+- TensorFlow Lite
+- TensorFlow Serving
+
+### JARVIS Applications
+
+1. Develop intelligent AI components.
+2. Build image recognition systems.
+3. Experiment with speech recognition.
+4. Train custom neural networks.
+5. Develop prediction systems.
+6. Build machine learning applications.
+7. Integrate trained models into JARVIS.
+
+### Learning Tasks
+
+1. Understand TensorFlow fundamentals.
+2. Learn tensors and operations.
+3. Understand neural networks.
+4. Learn model training.
+5. Explore Keras.
+6. Build a basic machine learning model.
+7. Learn model evaluation.
+8. Explore model deployment.
+9. Study TensorFlow integration with JARVIS.
+
+### Official Learning Resources
+
+- TensorFlow Tutorials: https://www.tensorflow.org/tutorials
+- Keras Documentation: https://keras.io/
+- TensorFlow Guide: https://www.tensorflow.org/guide
