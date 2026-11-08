@@ -951,3 +951,40 @@ My collection of publicly available AI models.
 7. Explore supported language models.
 8. Study how Ollama could integrate with JARVIS.
 
+
+---
+
+## 13. Hugging Face Hub
+
+- **Type:** AI Model and Dataset Hosting Platform
+- **Website:** https://huggingface.co/
+- **Source:** https://github.com/huggingface/huggingface_hub
+- **Documentation:** https://huggingface.co/docs/hub/
+- **Purpose:** Discover, download, share and manage pretrained AI models and datasets.
+- **Integration:** Python, JavaScript and REST APIs
+- **Platform Support:** Windows, Linux, macOS and supported cloud environments.
+- **JARVIS Use:** Discover and integrate suitable language, vision and audio models.
+- **Status:** Learning
+
+### Key Features
+
+- Pretrained AI models
+- Model repositories
+- Dataset repositories
+- Model documentation
+- Model version management
+- Model downloads
+- Inference API services
+- Community contributions
+
+### Learning Tasks
+
+1. Understand what Hugging Face Hub is.
+2. Learn how to search for AI models.
+3. Understand model cards.
+4. Explore pretrained language models.
+5. Explore vision and audio models.
+6. Learn how to download models using Python.
+7. Understand model licences and usage restrictions.
+8. Learn how to connect compatible models to JARVIS.
+
