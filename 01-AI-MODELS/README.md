@@ -567,3 +567,69 @@ My collection of publicly available AI models.
 - Keras Examples: https://keras.io/examples/
 - Keras API Reference: https://keras.io/api/
 - Keras GitHub: https://github.com/keras-team/keras
+---
+
+## 5. ONNX (Open Neural Network Exchange)
+
+- **Type:** Open Machine Learning Model Format
+- **Official Website:** https://onnx.ai/
+- **GitHub:** https://github.com/onnx/onnx
+- **Documentation:** https://onnx.ai/onnx/intro/
+- **Licence:** MIT
+- **Purpose:** Provide a common format for representing machine learning models.
+- **Supported Frameworks:** PyTorch, TensorFlow and other compatible frameworks.
+- **Runtime:** ONNX Runtime
+- **Runtime Website:** https://onnxruntime.ai/
+- **JARVIS Use:** Model interoperability and AI model deployment.
+- **Integration:** Python, C++, C#, Java and JavaScript through supported tools.
+- **Status:** Collected
+
+### Key Features
+
+- Open Model Format
+- Framework Interoperability
+- Computational Graph Representation
+- Standard Operators
+- Model Conversion
+- Model Validation
+- Model Optimization
+- Cross-Platform Deployment
+- Hardware Acceleration through compatible runtimes
+
+### JARVIS Applications
+
+1. Export compatible trained models into ONNX format.
+2. Run supported models using ONNX Runtime.
+3. Experiment with model deployment.
+4. Compare model performance across supported environments.
+5. Explore computer vision model deployment.
+6. Experiment with speech-processing models.
+7. Integrate compatible AI models into JARVIS.
+
+### Learning Tasks
+
+1. Understand ONNX fundamentals.
+2. Learn the ONNX model format.
+3. Understand computational graphs.
+4. Learn about ONNX operators.
+5. Understand model conversion.
+6. Explore PyTorch to ONNX export.
+7. Learn ONNX model validation.
+8. Explore ONNX Runtime.
+9. Test a compatible pretrained model.
+10. Study ONNX integration with JARVIS.
+
+### Official Learning Resources
+
+- ONNX Introduction: https://onnx.ai/onnx/intro/
+- ONNX Overview: https://onnx.ai/onnx/repo-docs/Overview.html
+- ONNX GitHub: https://github.com/onnx/onnx
+- ONNX Runtime: https://onnxruntime.ai/docs/
+- ONNX Runtime Tutorials: https://onnxruntime.ai/docs/tutorials/
+
+### Important Notes
+
+- ONNX is a model format, not an AI model itself.
+- Not every model or framework operation is supported.
+- Model conversion may require compatibility adjustments.
+- Always validate model accuracy after conversion.
